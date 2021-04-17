@@ -1,2 +1,2 @@
 # Albumz Music Manager
-A Music Collection Web Application
+A Music Collection Web Application along with Firebase
